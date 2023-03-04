@@ -1,3 +1,4 @@
+<meta name="insight-app-sec-validation" content="3f717484-2a03-4a03-bbb7-99e54e801e25">
 <!DOCTYPE html>
 <?php 
 include('func.php');  
